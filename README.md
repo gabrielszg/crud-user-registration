@@ -32,8 +32,8 @@
   ### Web
 
   <p align="center">
-    <img alt="Home" src="./frontend/src/assets/screen1.JPG" width="200px">
-    <img alt="Detalhes" src="./frontend/src/assets/screen2.JPG" width="200px">	
+    <img alt="Home" src="./frontend/src/assets/screen1.JPG" width="1000px">
+    <img alt="Detalhes" src="./frontend/src/assets/screen2.JPG" width="1000px">	
   </p>
 
 ---
@@ -115,6 +115,8 @@ flush privileges;
 -   **[Nodemon](https://www.npmjs.com/package/nodemon)**
 -   **[MySQL](https://www.mysql.com/)**
 -   **[Docker](https://www.docker.com/)**
+
+### Front End
 
 [React](https://react.dev/)
 
