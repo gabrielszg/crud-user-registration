@@ -125,7 +125,7 @@ flush privileges;
 -   **[React-Toastify](https://www.npmjs.com/package/react-toastify)**
 -   **[Styled Components](https://styled-components.com/)**
 
-## 🦸 Autor
+## 🦸🏻‍♂️ Autor
 
 <a href="https://github.com/gabrielszg">
   <p>@gabrielszg</p>
